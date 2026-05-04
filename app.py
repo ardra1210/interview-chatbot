@@ -1,5 +1,4 @@
 from google import genai
-from pyparsing import col
 import streamlit as st
 from streamlit_js_eval import streamlit_js_eval
 
